@@ -1,0 +1,32 @@
+[
+    {
+        "Localidad": "Ferrol",
+        "TiempoRegistro": "2/07/2023 11:52:26",
+        "Humedad": 89,
+        "Temperatura": 20
+    },
+    {
+        "Localidad": "Cerdido",
+        "TiempoRegistro": "2/07/2023 11:52:26",
+        "Humedad": 70,
+        "Temperatura": 15
+    },
+    {
+        "Localidad": "Ortigueira",
+        "TiempoRegistro": "2/07/2023 11:52:26",
+        "Humedad": 65,
+        "Temperatura": 17
+    },
+    {
+        "Localidad": "Narón",
+        "TiempoRegistro": "2/07/2023 11:52:26",
+        "Humedad": 80,
+        "Temperatura": 18
+    },
+    {
+        "Localidad": "Valdoviño",
+        "TiempoRegistro": "2/07/2023 11:52:26",
+        "Humedad": 78,
+        "Temperatura": 22
+    }
+]
